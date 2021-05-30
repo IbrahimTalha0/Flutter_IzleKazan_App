@@ -5,7 +5,7 @@ I can't share the codes because my client doesn't allow it.😢🙁
 
 "Watch and Win" application is a mobile application where the user earns points by watching videos or spending real money, and with that point, the number of views of the desired youtube video is increased.
 
-## TR
+### TR
 
 "İzle Kazan" uygulaması, kullanıcının video izleyerek veya gerçek para harcayarak puan kazandığı, o puan ile de istediği youtube videosunun izlenme sayısını arttırdığı bir mobil uygulamadır.
 
